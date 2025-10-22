@@ -5,6 +5,46 @@
 	(uuid "e13bcad6-39aa-4cc7-a96a-2fdaddc66971")
 	(paper "A4")
 	(lib_symbols)
+	(text "Karlo Kosanović"
+		(exclude_from_sim no)
+		(at 204.978 174.244 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "03e634f5-5bdc-4d53-93ac-347340792d0c")
+	)
+	(text "22.10.2025."
+		(exclude_from_sim no)
+		(at 213.614 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "38b9584e-a66c-4b37-8d5d-e18d73f3d42b")
+	)
+	(text "0"
+		(exclude_from_sim no)
+		(at 269.24 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9a1a31be-7ec5-4fbd-a5cb-c235ae085c6a")
+	)
+	(text "Projekt 1"
+		(exclude_from_sim no)
+		(at 191.77 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a8e4c3f9-16c6-44d7-9c74-e7469ddec2a2")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
