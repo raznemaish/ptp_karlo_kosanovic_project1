@@ -7560,7 +7560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal"
 			(at 242.57 45.72 0)
 			(effects
 				(font
@@ -12235,7 +12235,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "LED"
 			(at 88.9 47.9424 90)
 			(effects
 				(font

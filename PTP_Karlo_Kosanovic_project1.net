@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\kkosanovi\\Documents\\GitHub\\ptp_karlo_kosanovic_project1\\PTP_Karlo_Kosanovic_project1.kicad_sch")
-    (date "2025-11-26T17:20:51+0100")
+    (date "2025-12-03T17:05:16+0100")
     (tool "Eeschema 9.0.3")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -101,7 +101,7 @@
       (sheetpath (names "/") (tstamps "/"))
       (tstamps "d73a5e05-4c0d-4099-87c0-f6db4ad6c5c9"))
     (comp (ref "D1")
-      (value "D_Schottky")
+      (value "LED")
       (footprint "LED_THT:LED_D5.0mm")
       (datasheet "~")
       (description "Schottky diode")
@@ -169,7 +169,7 @@
       (property (name "ki_keywords") (value "LED diode"))
       (property (name "ki_fp_filters") (value "LED* LED_SMD:* LED_THT:*"))
       (sheetpath (names "/") (tstamps "/"))
-      (tstamps "23e05de0-8a65-4e55-b633-964c2dac92bd"))
+      (tstamps "2a4dc873-89cc-4367-8c2a-59d5890320c8"))
     (comp (ref "D5")
       (value "LED")
       (footprint "LED_THT:LED_D5.0mm")
